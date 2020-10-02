@@ -1,0 +1,12 @@
+body {
+    font-family: serif;
+}
+
+p {
+    text-align: left;
+    text-indent: 30px;
+}
+
+h1 {
+    background-image: url(../img/sobre-background.jpg);
+}
